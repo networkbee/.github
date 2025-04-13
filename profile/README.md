@@ -1,6 +1,6 @@
 # The Hive
 
-This organization contains the main infrastructure and code for our Minecraft network.
+This organization contains the main code for the bee network.
 
 ## Main Servers
 
