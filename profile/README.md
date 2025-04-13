@@ -4,12 +4,16 @@ This organization contains the main infrastructure and code for our Minecraft ne
 
 ## Main Servers
 
-- **Bee** — Main Minecraft server  
-- **Hive** — Main proxy server  
-- **Queen** — Main API service  
+| Name   | Description              |
+|--------|--------------------------|
+| Bee    | Main Minecraft server    |
+| Hive   | Main proxy server        |
+| Queen  | Main API service         |
 
 ## Libraries
 
-- **Pollen**  
-- **Nectar**  
-- **Honey**
+| Name   |
+|--------|
+| Pollen |
+| Nectar |
+| Honey  |
