@@ -1,19 +1,19 @@
-# The Hive
+# network bee
 
-This organization contains the main code for the bee network.
+this organization contains the main code for the <> network
 
 ## Main Servers
 
-| Name   | Description              |
-|--------|--------------------------|
-| Bee    | Main Minecraft server    |
-| Hive   | Main proxy server        |
-| Queen  | Main API service         |
+| Name   | Description                    |
+|--------|--------------------------------|
+| bee    | monorepo server                |
+| hive   | proxy                          |
+| queen  | api                            |
 
 ## Libraries
 
-| Name   |
-|--------|
-| Pollen |
-| Nectar |
-| Honey  |
+| Name   | Description              |
+|--------|--------------------------|
+| pollen | display libary           |
+| honey  | interface libary         |
+| nectar | inventory ui libary      |
