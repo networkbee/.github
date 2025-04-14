@@ -4,11 +4,13 @@ this organization contains the main code for the <> network
 
 ## Main Servers
 
-| Name   | Description                    |
-|--------|--------------------------------|
-| bee    | monorepo server                |
-| hive   | proxy                          |
-| queen  | api                            |
+| Name      | Description                    |
+|-----------|--------------------------------|
+| beekeeper | master contorller              |
+| bee       | monorepo server                |
+| drone     | proxy                          |
+| queen     | api                            |
+| hive      | dashboard online               |
 
 ## Libraries
 
