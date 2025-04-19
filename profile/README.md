@@ -19,7 +19,7 @@ network bee uses the **mmgr** stack:
 | **bee** | a minestom server monorepo for networkbee, contains all of the main server code and the game code. |
 | **drone** | a gate proxy for networkbee, handles sending players between bee instances. |
 | **queen** | a REST api server for networkbee, handles interfacing with backend systems rabbitmq, mongodb and beekeeper and middleman logic. |
-| **hive** | the web-based dashboard for network monitoring and management. |
+| **hive** | a minestom entrypoint server for networkbee, contains all the code for the entrypoint. |
 
 ### libaries
 
