@@ -30,4 +30,4 @@ network bee uses the **mmgr** stack:
 | **nectar** | a inventory ui libary for creating and managing inventory-based ui. |
 
 ### docker
-network bee is fully **docker-compatible**, allowing the entire network stack—including the game server, proxy, api, and database—to run in isolated containers
+network bee is fully **docker-contained**, allowing bee, queen and drone to all be scaled dynamically and beekeeper, hive, mongodb and rabbitmq to be isolated from the host.
